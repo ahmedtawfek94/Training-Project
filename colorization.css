@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    position: relative;
+}
+img{
+    position: absolute;
+    top: 2em;
+}
+li{
+    display: inline-block;
+    margin-right: 31px;
+}
+ul{
+    position: absolute;
+    text-align: end;
+    left: 13em;
+    top: 4em;
+}
+.img1{ 
+    position: absolute;
+    right: 148px;
+    top: 4em;
+    z-index: 0;
+}
+.button{
+    position: absolute;
+    right: 164px;
+    top: 4em;
+    text-decoration: none;
+    z-index: 1
+    ;
+}
+h1{
+    position: absolute;
+    display: inline-block;
+    top: 10em;
+    left: 2em;
+}
+.parg1{
+    position: absolute;
+    top: 23em;
+    right: 66em;
+    color: lightsteelblue;
+}
+.parg2{
+    position: absolute;
+    top: 24em;
+    right: 1204px;
+    color: lightsteelblue;
+}
+.img2{
+    position: absolute;
+    top: 0em;
+    z-index: -8;
+}
+.img3{
+    position: absolute;
+    right: -6em;
+    top: 5em;
+    z-index: 3;
+}
+.img4{
+    position: absolute;
+    right: 14em;
+    top: 8em;
+    z-index: 5;
+}
+.img5{
+    position: absolute;
+    top: 38em;
+    right: 3em;
+}
+body{   
+      overflow-x: hidden;
+      height: 2000px;
+    }
+.img6{
+    position: absolute;
+    top: 49em;
+    right: 25em;}
+    .img7{
+        position: absolute;
+        right: 70em;
+         top: 72em;
+    }
+    .img8{
+        position: absolute;
+         top: 88em;
+        right: 37em;
+        z-index: 10;   
+    }
+    .img9{
+        position: absolute;
+        top: 106em;
+         right: 8em;
+        }
+.img10{
+    position: absolute;
+    top: 70em;
+    right: 5em;
+}
+.comm1{
+    position: absolute;
+    top: 73em;
+    right: 63em;
+}
+.comm2{
+    right: 87em;
+    position: absolute;
+    top: 105em;
+    color: lightsteelblue;
+}
+.comm3{
+    position: absolute;
+    top: 87em;
+    right: 34em;
+}
+.comm4{
+    position: absolute;
+    top: 125em;
+    right: 43em;
+    color: lightsteelblue;
+}
+.comm5{
+    position: absolute;
+    top: 126em;
+    right: 46em;
+    z-index: 5;
+    opacity: .9;
+    color: lightsteelblue;
+}
+.comm6{
+    position: absolute;
+    top: 102em;
+    right: 13em;
+}
+.comm7{
+    position: absolute;
+    top: 146em;
+    right: 12em;
+    color: lightsteelblue;
+}
+.comm8{
+    position: absolute;
+    top: 147em;
+    right: 10em;
+    color: lightsteelblue;
+}
+.img11{
+    position: absolute;
+    top: 109em;
+    right: 63em;
+}
+.comm9{
+    position: absolute;
+    top: 58em;
+    left: 7em;
+    color: wheat;
+    font-weight: 450;
+}
+.comm10{
+    position: absolute;
+    top: 138em;
+    right: 72rem;
+    color: wheat;
+}
+.img12{
+    position: absolute;
+    top: 135em;
+    left: 12em;
+}
+.img13{
+    position: absolute;
+    top: 130em;
+    right: 31em;
+ }
+.img14{
+    position: absolute;
+    top: 136em;
+    right: 9em;
+}
+.img15{
+    position: absolute;
+    top: 145em;
+    right: 58em;
+}
+.img16{
+    position: absolute;
+    top: 145em;
+    right: 23em;
+}
+.comm11{
+    position: absolute;
+    top: 129em;
+    right: 30em;
+}
+.comm12{
+    position: absolute;
+    top: 154em;
+    left: 42em;
+    color: lightsteelblue;
+}
+.comm13{
+    position: absolute;
+    top: 155em;
+    left: 45em;
+    color: lightsteelblue;
+}
+.comm14{
+    position: absolute;
+    top: 153em;
+    left: 43em;
+    color: lightsteelblue;
+}
+.comm15{
+    color: lightsteelblue;
+    position: absolute;
+    top: 106em;
+    left: 6em;
+}
+
+.img17{
+    position: absolute;
+    top: 146em;
+    left: -2em;
+    z-index: 5;
+    opacity: .9;
+}
+.img18{
+    position: absolute;
+    top: 159em;
+    left: 46em;
+    z-index: 9;
+}
+.list1{
+    position: absolute;
+    top: 183em;
+    right: 54em;
+    color: white;
+    z-index: 9;
+}
+.imgsec1{
+    display: inline-block;
+    margin-right: 58px;
+    z-index: 9;
+}
+.img19{
+    position: absolute;
+    top: -3em;
+    left: 1em;
+    z-index: 9;
+}
+.img20{
+    position: absolute;
+    top: -3em;
+    left: 5em;
+    z-index: 9;
+}
+.img21{
+    position: absolute;
+    top: -3em;
+    left: 9em;
+    z-index: 9;
+}
+.img22{
+    position: absolute;
+    top: -7em;
+    left: 1em;
+    z-index: 9;
+}
+.img23{
+    position: absolute;
+    top: -109px;
+    left: 4em;
+    z-index: 9;
+}
+.img24{
+    position: absolute;
+    top: -7em;
+    left: 10em;
+    z-index: 9;
+}
+.img25{
+    position: absolute;
+    top: -106px;
+    left: 13em;
+    z-index: 9;
+}
+span{
+    color: magenta; 
+}
